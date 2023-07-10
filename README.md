@@ -24,7 +24,7 @@ Estoy en busca de experiencia laboral y oportunidades para crecer profesionalmen
 ## Idiomas
 
 - ★★★☆☆ Ingles B1/2
--  - ★☆☆☆☆ Portugués
+- ★☆☆☆☆ Portugués
 
 ## Competencias
 
