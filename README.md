@@ -1,9 +1,9 @@
 
-# José David Villegas Aristizábal
+# José David Villegas Aristizábal 🚀✨
 
-Web Developer
+## Web Developer
 
-Guatapé - Antioquia
+Guatapé - Antioquia - Colombia
 +57 3103652785
 
 Estoy en busca de experiencia laboral y oportunidades para crecer profesionalmente. Soy alguien competitivo que busca siempre el mejor resultado posible en cada proyecto. Me adapto fácilmente a los cambios y a las nuevas ideas, y valoro la diversidad de opiniones y perspectivas. Me gustan los retos y me enfoco en lo que hago, siempre busco aprender y mejorar. Preparado para utilizar mis habilidades y pasión para impulsar la misión de una compañía. Aporto una actitud positiva, la voluntad y motivación.
@@ -11,7 +11,7 @@ Estoy en busca de experiencia laboral y oportunidades para crecer profesionalmen
 ## Información Personal
 
 - Dirección: Guatapé - Antioquia - Colomia
-- Aficiones: Jugar Videojuegos, Practicar Tennis, BMX, Astrofotografía, Astronomía, Ajedrez, Volleyball, Ver noticias de IA, Aprender de Economía
+- Aficiones: Jugar Videojuegos 🎮, Practicar Tennis 🎾, BMX 🚴🏼‍♂️, Astrofotografía 📷✨, Astronomía 🚀, Ajedrez ♟️, Volleyball 🏐, Ver noticias de IA 🤖, Aprender de Economía 📈
 
 ## Perfiles en Redes Sociales
 
@@ -23,20 +23,25 @@ Estoy en busca de experiencia laboral y oportunidades para crecer profesionalmen
 
 ## Idiomas
 
-- ★★★★☆ Inglés B2
+- ★★★☆☆ Ingles B1/2
+-  - ★☆☆☆☆ Portugués
 
 ## Competencias
 
-- SQL
 - Svelte
+- SvelteKit
 - React
-- JavaScript
-- HTML & CSS
-- Express
 - PostgreSQL
+- Supabase
 - Flutter
+- Firebase
+- Git & Github
+- Next.js
+- Express
+- Bootstrap
+- HTML & CSS
+- JavaScript
 - Node.js
-- Git
 
 ## Experiencia Laboral
 
@@ -57,4 +62,4 @@ Estoy en busca de experiencia laboral y oportunidades para crecer profesionalmen
 
 - Enero 2006 - Noviembre 2020: Institución Educativa Nuestra Señora del Pilar Guatapé, Guatapé Bachiller
   - Graduado con excelente desempeño académico en el área de Matemáticas y Tecnología.
-  - 3er lugar de la Institución en las pruebas ICFES 2020 con un puntaje de 347/500.
+  - 3er lugar de la Institución en las pruebas ICFES 2020 con un puntaje de 347/500.  
